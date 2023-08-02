@@ -1,2 +1,2 @@
-# jogodosnomes
+# JogoDosNomes
 jogo dos nomes
